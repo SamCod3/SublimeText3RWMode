@@ -1,0 +1,4 @@
+[
+    { "command": "read", "caption": "Toggle Readonly"},
+    { "command": "write", "caption": "Toggle Writable"}
+]
